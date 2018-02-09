@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "to do list node js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raylinhonghu/Nodejs-Todo-List.git"
+  },
+  "author": "ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raylinhonghu/Nodejs-Todo-List/issues"
+  },
+  "homepage": "https://github.com/raylinhonghu/Nodejs-Todo-List#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
