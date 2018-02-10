@@ -59,7 +59,7 @@ li{
 }
 
 li:hover{
-    text-decoration: line-through;
+    text-decoration: underline;
     background: rgba(0,0,0,0.2);
 }
 
@@ -67,4 +67,7 @@ h1{
     background: url(/logo.png) no-repeat center;
     margin-bottom: 0;
     text-indent: -10000px;
+    width: 300px
+    position: fixed;
+    bottom: 0px;
 }
